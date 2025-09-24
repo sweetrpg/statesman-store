@@ -18,7 +18,7 @@ blinker==1.5
     # via sentry-sdk
 cachelib==0.10.1
     # via flask-session
-certifi==2022.12.7
+certifi==2024.7.4
     # via
     #   requests
     #   sentry-sdk
