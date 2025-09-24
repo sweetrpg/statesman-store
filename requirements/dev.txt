@@ -174,8 +174,6 @@ pygments==2.19.2
     #   rich
     #   sphinx
     #   sphinx-tabs
-pyjwt==2.10.1
-    # via redis
 pyproject-api==1.9.1
     # via tox
 pyproject-hooks==1.2.0
@@ -194,7 +192,7 @@ pytokens==0.1.10
     # via black
 pyyaml==6.0.2
     # via -r requirements/app.in
-redis==5.3.1
+redis==6.4.0
     # via
     #   -r requirements/app.in
     #   flask-redis
