@@ -126,8 +126,6 @@ psycopg2==2.9.10
     # via -r requirements/app.in
 pygments==2.19.2
     # via pytest
-pyjwt==2.10.1
-    # via redis
 pyproject-api==1.9.1
     # via tox
 pytest==8.4.2
@@ -140,7 +138,7 @@ python-dotenv==1.1.1
     # via -r requirements/app.in
 pyyaml==6.0.2
     # via -r requirements/app.in
-redis==5.3.1
+redis==6.4.0
     # via
     #   -r requirements/app.in
     #   flask-redis
