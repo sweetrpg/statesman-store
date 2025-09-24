@@ -4,7 +4,7 @@ from setuptools import setup
 setup(
     name="statesman-store",
     install_requires=[
-        "flask<3.0",
+        "flask",
         "flask-dotenv",
         "flask-executor",
         "flask-inputs",
