@@ -12,7 +12,6 @@ pika
 psycopg2
 python-dotenv
 pyyaml
-redis~=6.4
+redis~=6.0
 requests
 sentry-sdk[flask]
-uwsgi
