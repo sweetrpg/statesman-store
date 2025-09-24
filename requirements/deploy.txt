@@ -86,11 +86,13 @@ pika==1.3.2
     # via -r requirements/app.in
 psycopg2==2.9.10
     # via -r requirements/app.in
+pyjwt==2.10.1
+    # via redis
 python-dotenv==1.1.1
     # via -r requirements/app.in
 pyyaml==6.0.2
     # via -r requirements/app.in
-redis==6.4.0
+redis==5.3.1
     # via
     #   -r requirements/app.in
     #   flask-redis
