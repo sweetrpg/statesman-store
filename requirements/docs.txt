@@ -120,7 +120,7 @@ pygments==2.19.2
     #   rich
     #   sphinx
     #   sphinx-tabs
-python-dotenv==1.1.1
+python-dotenv==1.2.1
     # via -r requirements/app.in
 pyyaml==6.0.3
     # via -r requirements/app.in
