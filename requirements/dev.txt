@@ -196,7 +196,7 @@ pytokens==0.4.1
     # via black
 pyyaml==6.0.3
     # via -r requirements/app.in
-redis==6.4.0
+redis==7.4.0
     # via
     #   -r requirements/app.in
     #   flask-redis
