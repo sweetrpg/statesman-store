@@ -18,7 +18,7 @@ setup(
         "psycopg2",
         "python-dotenv",
         "pyyaml",
-        "redis~=6.0",
+        "redis~=8.0",
         "requests",
         "sentry-sdk[flask]",
     ],
