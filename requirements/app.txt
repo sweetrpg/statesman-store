@@ -102,7 +102,7 @@ rpds-py==2026.5.1
     # via
     #   jsonschema
     #   referencing
-sentry-sdk[flask]==2.61.1
+sentry-sdk[flask]==2.62.0
     # via -r requirements/app.in
 sqlalchemy==2.0.50
     # via
